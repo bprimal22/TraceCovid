@@ -6,9 +6,9 @@ More importantly, it will provide UT Austin to target and sanitize areas within 
 The app will also be the first and the complete guide to UT Austin students this fall to get tested for COVID-19. 
 This is our approach to get more users (especially tested for COVID-19) to be a part of our service.
 
-# FrontEnd
+## FrontEnd
 - An app
 - Data Visualization
 
-#BackEnd
+## BackEnd
 - Utilizes ESP32 and a Bluetooth Module as an IoT device
